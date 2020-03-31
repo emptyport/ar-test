@@ -18,7 +18,7 @@ var markers = {
   pinball: {
     width: 648,
     height: 1000,
-    dpi: 72,
+    dpi: 200,
     url: "assets/bookCover_small"
   }
 };
