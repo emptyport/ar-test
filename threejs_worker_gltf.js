@@ -85,6 +85,7 @@ function start(
   var root = new THREE.Object3D();
   scene.add(root);
 
+  root.add(sphere);
   /* Load Model */
   var threeGLTFLoader = new THREE.GLTFLoader();
 
